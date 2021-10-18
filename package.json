@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/kelleymarne/socialNetwork.git"
+      "url": ""
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/kelleymarne/socialNetwork/issues"
+      "url": ""
     },
-    "homepage": "https://github.com/kelleymarne/socialNetwork#readme",
+    "homepage": "",
     "dependencies": {
       "express": "^4.17.1",
       "mongoose": "^5.13.7"
