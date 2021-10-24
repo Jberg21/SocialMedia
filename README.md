@@ -15,6 +15,8 @@
 
 > Challenge #18- NoSQL Social Media Back-End
 
+---
+
 ## Introduction 
 We were instructed to create the back end of a social media website using NoSQL. We needed to set up an API with routes referring to the 'User' and then the ability to create a 'Thought' as well as leave a 'Reaction'. 
 
@@ -34,21 +36,15 @@ The Thought and Reaction routes include:
 - DELETE a Thought by ID
 - DELETE a Reaction by UPDATING a Thought
 
-
 ---
 
 ## Challenges
-
-Overall the set-up of this project was very straight forward and easy to get structured. However the one hiccup that i did run into was with the routes for the Thoughts. I had a hard time getting my reactions routes to recognize the thoughtId. I realized i just had referenced it wrong in the routing and got the worked out pretty quickly. 
-
-
-
+I ran into issues with the reactions and the deleting of reactions. I had help from Kelley and Jessica to get it working. 
 
 ---
 ## Victories
 
-NoSQL is a breath of fresh air after the last leg of the coursework. I have really enjoyed working with this technology. I'm starting to feel less confused by the larger file structures that come with the full-stack. This project was especially easy to set up after the modules this week. It was really similar as far as the skeleton you need to set up for this technology, espcially with no front end to tie up with it. I really enjoyed this project!
-
+I was able to get the controllers and servers routed mostly correct 
 
 ---
 
@@ -62,12 +58,13 @@ NoSQL is a breath of fresh air after the last leg of the coursework. I have real
 
 ---
 
-
+## Contribution
+Jessica, Kelley, and I worked on these together. 
 
 ## Resources 
 
-<a href="">GitHub Repo</a>
+<a href="https://github.com/Jberg21/SocialMedia">GitHub Repo</a>
 
-<a href="">YouTube</a>
+<a href="https://www.youtube.com/watch?v=l4VwKC2aPoQ">YouTube</a>
 
 ---
